@@ -1,0 +1,51 @@
+.detalle-completo-bitacora {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .detalle-completo-bitacora h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #2d6a4f;
+    text-align: center;
+    border-bottom: 2px solid #95d5b2;
+    padding-bottom: 10px;
+  }
+  
+  .detalle-completo-bitacora p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 10px 0;
+  }
+  
+  .detalle-completo-bitacora p strong {
+    color: #2a9d8f;
+  }
+  
+  .detalle-completo-bitacora img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    border-radius: 10px;
+    border: 2px solid #95d5b2;
+  }
+  
+  .detalle-completo-bitacora .loading {
+    font-size: 1.2rem;
+    color: #ff6b6b;
+    text-align: center;
+  }
+  
+  .detalle-completo-bitacora .error {
+    color: #e63946;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+  }
+  

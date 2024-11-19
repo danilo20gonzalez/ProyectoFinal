@@ -1,0 +1,57 @@
+/* Estilos para el Dashboard */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem;
+  }
+  
+  header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  header button {
+    background-color: #ff4d4d;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  header button:hover {
+    background-color: #e60000;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 1rem 0;
+  }
+  
+  ul li a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #4CAF50;
+    transition: color 0.3s ease;
+  }
+  
+  ul li a:hover {
+    color: #2e7d32;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #555;
+    margin: 1rem 0;
+  }
+  
